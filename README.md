@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-**nematostellalab/nematostellalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 🔬 Leach Lab
+🔬 Leach Lab
 
 🌐 **Website:** https://nematostellalab.github.io
 
