@@ -8,7 +8,6 @@ The Leach Lab studies behavior, circadian biology, and host–environment intera
 
 We combine experimental biology, low-cost engineering, and behavioral research to understand how organisms interact with their environment across time.
 
----
 
 ## Research Focus
 
@@ -17,7 +16,6 @@ We combine experimental biology, low-cost engineering, and behavioral research t
 * Host–environment interactions
 * Low-cost and open scientific tools
 
----
 
 ## Projects
 
@@ -28,22 +26,18 @@ This GitHub hosts tools, data, and experiments related to:
 * Experimental system design
 * Open-source lab infrastructure
 
----
 
 ## Visit the Lab Website
 
 👉 https://nematostellalab.github.io
 
----
 
 ## Contact
 
 For collaborations or questions, feel free to reach out. whitney.leach@desales.edu
 
----
 
 ## About *Nematostella vectensis*
 
 *Nematostella vectensis* (the starlet sea anemone) is a powerful model organism for studying evolution, daily rhythms, neurobiology, and environmental response.
 
----
